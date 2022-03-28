@@ -1,3 +1,5 @@
 # CDCs
 
-Secretaria de Educación de Vercaruz SEV
+Secretaria de Educación de Veracruz  SEV
+oficina de afectación a la Nómina
+@mitre ,,,
