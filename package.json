@@ -1,0 +1,27 @@
+{
+  "name": "cdcs",
+  "version": "1.0.0",
+  "description": "cdc buscador de empleados",
+  "main": "arrows.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitre88/CDCs.git"
+  },
+  "keywords": [
+    "\"buscador\"",
+    "\"cdcds\"",
+    "\"secretaria",
+    "de",
+    "educación\"",
+    "\"nominas\"\""
+  ],
+  "author": "Alejandro Mitre: bedr10_capacitacion@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitre88/CDCs/issues"
+  },
+  "homepage": "https://github.com/mitre88/CDCs#readme"
+}
